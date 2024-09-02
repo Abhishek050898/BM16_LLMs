@@ -1,0 +1,7 @@
+EXTENDED RESEARCH PROJECT
+
+
+Large Language Models (LLMs) in Financial Application
+
+
+Performance of business-centric LLMs and distilled LLMs, within the context of finance, particularly focusing on financial forecasting.
