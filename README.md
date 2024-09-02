@@ -32,6 +32,10 @@ Ensure the following packages with same versions are installed in your environme
 4.	datasets – 2.21.0
 5.	tensorflow – 2.17.0
 
+Install the libraries using the requirements.txt.
+
+!pip install -r requirements.txt
+
 NOTES
 
 1. Data Access: Access to WRDS. Make sure you have the credentials.
